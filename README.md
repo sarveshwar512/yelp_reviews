@@ -4,7 +4,7 @@
 An end-to-end data analytics pipeline processing 7 million Yelp reviews (5GB) and business data (100MB) to derive actionable business insights through data engineering, warehousing, and analytical techniques.
 
 ## Architecture
-![Architecture Diagram](path/to/architecture_diagram.png)
+yelp_review_project.png
 
 The pipeline follows this workflow:
 1. **Data Ingestion**: JSON files from Yelp dataset (reviews and business data)
